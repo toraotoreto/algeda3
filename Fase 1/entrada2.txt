@@ -1,0 +1,14 @@
+grupo: Lucas Fernando Bia Pedro Ana
+grupo: Maria Jonas Fabi
+grupo: Ivo Paulo Junior Ivone
+existe: Bia
+existe: Alberto
+conhece: Lucas Pedro
+conhece: Fernando Fabi 
+CriaFila: Guiche1
+chegou: Ana Maria
+CriaFila: Guiche2
+chegou: Lucas Fernando Bia Pedro Ivo Paulo Junior Jonas
+desiste: Jonas Ana
+atendeFila: Guiche1 Guiche 2 Guiche2
+imprime:
